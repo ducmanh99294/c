@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="box1">
-        <img src="ehan2.png" alt="">
+        <img src="ehan1.png" alt="">
         <ul>
             <li class="next"><a href="https://www.facebook.com/profile.php?id=100015493929301"></a></li>
             <li class="pre"><a href="https://www.facebook.com/profile.php?id=100015493929301"></a></li>
