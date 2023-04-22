@@ -1,0 +1,45 @@
+@charset "utf-8";
+.box1{
+ margin: 0 auto;
+ width: 800px;
+ height: 900px;
+ position: relative;
+}
+.box1 img{
+width: 100%;
+height: 100%;
+}
+.box1 ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.box1 ul li a{
+    text-decoration: none;
+    width: 60px;
+    height: 80px;
+    display: block;
+}
+.box1 ul li.next{
+    display: block;
+    position: absolute;
+    top: 400px;
+    right: 0;
+}
+.box1 ul li.pre{
+    display: block;
+    position: absolute;
+    top: 400px;
+    left: 0;
+}
+.box1 ul li.next a{
+    background-image: url(ehan3.jpg);
+    background-position: right;
+    background-size: 60px 80px;
+}
+.box1 ul li.pre a{
+    background-image: url(bangaiehan.png);
+    background-position: left;
+    background-size: 60px 80px;
+    }
+
