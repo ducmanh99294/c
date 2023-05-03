@@ -10,9 +10,9 @@
 </head>
 <body>
     <div class="box1">
-        <img src="https://drive.google.com/drive/folders/1soLAUqRj0gl8-kqwgDyfAhmJacVWzGwW?authuser=1" alt="">
+        <img src="ehan1" alt="">
         <ul>
-            <li class="next"><a href="https://www.facebook.com/profile.php?id=100015493929301"></a></li>
+            <li class="next"><a href="https://drive.google.com/drive/folders/1soLAUqRj0gl8-kqwgDyfAhmJacVWzGwW?authuser=1"></a></li>
             <li class="pre"><a href="https://www.facebook.com/profile.php?id=100015493929301"></a></li>
         </ul>
     </div>
