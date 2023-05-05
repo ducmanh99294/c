@@ -80,9 +80,7 @@ padding-top: 20px;
 .box1 img.Pic{
     width: 950px;
 }
-
-        
-        </style>
+       </style>
 </head>
 <body>
     <div class="box1">
